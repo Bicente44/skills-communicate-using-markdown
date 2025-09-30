@@ -18,3 +18,9 @@ for (int i = 0; i < 5; i++) {
   System.out.println("");
 }
 ```
+
+- [ ] Work on my portfolio website
+- [ ] Complete GitHub certifications
+- [ ] Become a better programmer
+- [x] Enjoy an excellent productive college break
+
